@@ -2,6 +2,7 @@
 # 🛒 Zepto Product Insights - Data to Decisions
 
 Building a complete analytics workflow for Zepto by scraping product data with Selenium, performing in-depth EDA in Python, modelling insights with SQL, and developing interactive dashboards in Power BI.
+![zepto_home](https://github.com/saicharannetha/Zepto_Product_Insights-Data_to_Decisions/blob/main/dashboard/zepto_home.png)
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
