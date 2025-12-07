@@ -148,7 +148,7 @@ The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDY4YjI5NGItM2MwOC00YjVkL
 **home**
 
 **Page 1 – Customer Engagement & Category Analysis**
-8 Charts:
+
 
 - Delivery Time by Rating
 
@@ -165,7 +165,7 @@ The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDY4YjI5NGItM2MwOC00YjVkL
 - Category Summary Table
 
 **Page 2 – Pricing, Discounts & Category Performance**
-6 Charts:
+
 
 - Price by Delivery Time
 
