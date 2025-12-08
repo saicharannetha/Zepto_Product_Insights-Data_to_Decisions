@@ -2,7 +2,7 @@
 # 🛒 Zepto Product Insights - Data to Decisions
 
 Building a complete analytics workflow for Zepto by scraping product data with Selenium, performing in-depth EDA in Python, modelling insights with SQL, and developing interactive dashboards in Power BI.
-![zepto_home](https://github.com/saicharannetha/Zepto_Product_Insights-Data_to_Decisions/blob/main/dashboard/zepto_home.png)
+
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
@@ -147,6 +147,8 @@ The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDY4YjI5NGItM2MwOC00YjVkL
 
 **home**
 
+![zepto_home](https://github.com/saicharannetha/Zepto_Product_Insights-Data_to_Decisions/blob/main/dashboard/zepto_home.png)
+
 **Page 1 – Customer Engagement & Category Analysis**
 
 
@@ -164,6 +166,8 @@ The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDY4YjI5NGItM2MwOC00YjVkL
 
 - Category Summary Table
 
+  ![Customer Engagement & Category Analysis](https://github.com/saicharannetha/Zepto_Product_Insights-Data_to_Decisions/blob/main/dashboard/zepto_page1.png)
+
 **Page 2 – Pricing, Discounts & Category Performance**
 
 
@@ -179,7 +183,7 @@ The [dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDY4YjI5NGItM2MwOC00YjVkL
 
 - Category Metrics Table
 
-![Customer Engagement & Category Analysis](https://github.com/saicharannetha/Zepto_Product_Insights-Data_to_Decisions/blob/main/dashboard/zepto_page1.png)
+
 ![Pricing, Discounts & Category Performance](https://github.com/saicharannetha/Zepto_Product_Insights-Data_to_Decisions/blob/main/dashboard/zepto_page2.png)
 
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
